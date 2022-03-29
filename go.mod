@@ -1,4 +1,4 @@
-module github.com/ideatocode/go-httplus
+module go.ideatocode.tech/httplus
 
 go 1.17
 
