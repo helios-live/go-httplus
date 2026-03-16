@@ -1,4 +1,4 @@
-package httplus // import go.ideatocode.tech/httplus
+package httplus
 
 import (
 	"encoding/base64"
